@@ -1,0 +1,10 @@
+
+.cache/
+.vscode/
+.idea/
+.DS_Store
+node_modules/
+*.log
+*.tmp
+NTUSER.DAT*
+
