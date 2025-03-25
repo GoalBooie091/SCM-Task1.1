@@ -1,11 +1,18 @@
+# Ignore log files
+*.log
 
-.cache/
+# Ignore node_modules (for Node.js projects)
+node_modules/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore build files
+/dist/
+/build/
+
+# Ignore IDE settings
 .vscode/
 .idea/
-.DS_Store
-node_modules/
-*.log
-*.tmp
-NTUSER.DAT*
 
-node_modules/
