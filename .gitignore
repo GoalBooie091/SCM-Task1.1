@@ -8,3 +8,4 @@ node_modules/
 *.tmp
 NTUSER.DAT*
 
+node_modules/
